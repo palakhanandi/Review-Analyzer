@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "LANGUAGE_ENDPOINT": "https://lang-meoww-demoo.cognitiveservices.azure.com/",
+    "LANGUAGE_KEY": "73GLiHYEcVAUVGBt6nYAroypDAKXMk3tj29yIDhkvU1YvJgHkHwPJQQJ99CFACGhslBXJ3w3AAAaACOGi5f3"
+  },
+   "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "http://127.0.0.1:5500",
+    "CORSCredentials": false
+  }
+}
+
+
