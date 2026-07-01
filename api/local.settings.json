@@ -3,8 +3,8 @@
   "Values": {
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "FUNCTIONS_WORKER_RUNTIME": "python",
-    "LANGUAGE_ENDPOINT": "https://lang-meoww-demoo.cognitiveservices.azure.com/",
-    "LANGUAGE_KEY": "73GLiHYEcVAUVGBt6nYAroypDAKXMk3tj29yIDhkvU1YvJgHkHwPJQQJ99CFACGhslBXJ3w3AAAaACOGi5f3"
+    "LANGUAGE_ENDPOINT": "https://<your-language-resource>.cognitiveservices.azure.com"",
+    "LANGUAGE_KEY": "<your-key-1>"
   },
    "Host": {
     "LocalHttpPort": 7071,
